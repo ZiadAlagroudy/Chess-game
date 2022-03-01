@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChessGUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChessGUI/dist/ChessGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
